@@ -1,12 +1,12 @@
+import { Table } from 'antd'
 import React from 'react'
-import {Table} from 'antd'
 
-const TheatreTable = () => {
+function TheatreTable() {
   return (
     <div>
-        <table/>
+      <Table />
     </div>
   )
 }
 
-export default TheatreTable;
+export default TheatreTable

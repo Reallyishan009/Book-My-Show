@@ -1,5 +1,5 @@
 import "./App.css";
-import ProtectedRoute from "./components/ProtectedRoutes";
+import ProtectedRoute from "./components/ProtectedRoute";
 import Home from "./pages/home";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
